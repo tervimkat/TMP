@@ -1,0 +1,7 @@
+C:\Users\TEST\Desktop\ТМП\tcpclient\tcpclient\bin\Debug\tcpclient.exe.config
+C:\Users\TEST\Desktop\ТМП\tcpclient\tcpclient\bin\Debug\tcpclient.exe
+C:\Users\TEST\Desktop\ТМП\tcpclient\tcpclient\bin\Debug\tcpclient.pdb
+C:\Users\TEST\Desktop\ТМП\tcpclient\tcpclient\obj\Debug\tcpclient.csprojAssemblyReference.cache
+C:\Users\TEST\Desktop\ТМП\tcpclient\tcpclient\obj\Debug\tcpclient.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\ТМП\tcpclient\tcpclient\obj\Debug\tcpclient.exe
+C:\Users\TEST\Desktop\ТМП\tcpclient\tcpclient\obj\Debug\tcpclient.pdb
