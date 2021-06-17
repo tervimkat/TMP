@@ -1,0 +1,7 @@
+C:\Users\TEST\Desktop\ТМП\tcpserver\tcpserver\bin\Debug\tcpserver.exe.config
+C:\Users\TEST\Desktop\ТМП\tcpserver\tcpserver\bin\Debug\tcpserver.exe
+C:\Users\TEST\Desktop\ТМП\tcpserver\tcpserver\bin\Debug\tcpserver.pdb
+C:\Users\TEST\Desktop\ТМП\tcpserver\tcpserver\obj\Debug\tcpserver.csprojAssemblyReference.cache
+C:\Users\TEST\Desktop\ТМП\tcpserver\tcpserver\obj\Debug\tcpserver.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\ТМП\tcpserver\tcpserver\obj\Debug\tcpserver.exe
+C:\Users\TEST\Desktop\ТМП\tcpserver\tcpserver\obj\Debug\tcpserver.pdb
