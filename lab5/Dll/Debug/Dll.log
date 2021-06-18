@@ -1,0 +1,3 @@
+﻿pch.obj : error LNK2005: _test уже определен в dllmain.obj
+     Создается библиотека C:\Users\TEST\Desktop\ТМП\Dll\Debug\Dll.lib и объект C:\Users\TEST\Desktop\ТМП\Dll\Debug\Dll.exp
+C:\Users\TEST\Desktop\ТМП\Dll\Debug\Dll.dll : fatal error LNK1169: обнаружен многократно определенный символ - один или более
