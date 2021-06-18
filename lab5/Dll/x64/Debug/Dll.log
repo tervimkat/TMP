@@ -1,0 +1,5 @@
+﻿  pch.cpp
+C:\Users\TEST\Desktop\ТМП\5лаб187-1ВорончихинИван\5лаб187-1ВорончихинИван\Dll\Dll\pch.cpp(5,1): warning C4273: getStruct: несовместимое связывание dll
+C:\Users\TEST\Desktop\ТМП\5лаб187-1ВорончихинИван\5лаб187-1ВорончихинИван\Dll\Dll\pch.h(17,34): message : см. предыдущее определение "getStruct"
+  dllmain.cpp
+  Dll.vcxproj -> C:\Users\TEST\Desktop\ТМП\5лаб187-1ВорончихинИван\5лаб187-1ВорончихинИван\Dll\x64\Debug\Dll.dll
