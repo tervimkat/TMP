@@ -1,0 +1,7 @@
+C:\Users\TEST\Desktop\ТМП\npclient\npclient\bin\Debug\npclient.exe.config
+C:\Users\TEST\Desktop\ТМП\npclient\npclient\bin\Debug\npclient.exe
+C:\Users\TEST\Desktop\ТМП\npclient\npclient\bin\Debug\npclient.pdb
+C:\Users\TEST\Desktop\ТМП\npclient\npclient\obj\Debug\npclient.csprojAssemblyReference.cache
+C:\Users\TEST\Desktop\ТМП\npclient\npclient\obj\Debug\npclient.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\ТМП\npclient\npclient\obj\Debug\npclient.exe
+C:\Users\TEST\Desktop\ТМП\npclient\npclient\obj\Debug\npclient.pdb
