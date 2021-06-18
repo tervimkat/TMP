@@ -1,0 +1,7 @@
+C:\Users\TEST\Desktop\ТМП\npsever\npsever\bin\Debug\npsever.exe.config
+C:\Users\TEST\Desktop\ТМП\npsever\npsever\bin\Debug\npsever.exe
+C:\Users\TEST\Desktop\ТМП\npsever\npsever\bin\Debug\npsever.pdb
+C:\Users\TEST\Desktop\ТМП\npsever\npsever\obj\Debug\npsever.csprojAssemblyReference.cache
+C:\Users\TEST\Desktop\ТМП\npsever\npsever\obj\Debug\npsever.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\ТМП\npsever\npsever\obj\Debug\npsever.exe
+C:\Users\TEST\Desktop\ТМП\npsever\npsever\obj\Debug\npsever.pdb
