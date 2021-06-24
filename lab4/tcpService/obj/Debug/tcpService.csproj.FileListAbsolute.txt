@@ -1,0 +1,7 @@
+C:\Users\TEST\Desktop\ТМП\4лаб187-1ВорончихинИван\tcpService\tcpService\bin\Debug\tcpService.exe.config
+C:\Users\TEST\Desktop\ТМП\4лаб187-1ВорончихинИван\tcpService\tcpService\bin\Debug\tcpService.exe
+C:\Users\TEST\Desktop\ТМП\4лаб187-1ВорончихинИван\tcpService\tcpService\bin\Debug\tcpService.pdb
+C:\Users\TEST\Desktop\ТМП\4лаб187-1ВорончихинИван\tcpService\tcpService\obj\Debug\tcpService.csprojAssemblyReference.cache
+C:\Users\TEST\Desktop\ТМП\4лаб187-1ВорончихинИван\tcpService\tcpService\obj\Debug\tcpService.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\ТМП\4лаб187-1ВорончихинИван\tcpService\tcpService\obj\Debug\tcpService.exe
+C:\Users\TEST\Desktop\ТМП\4лаб187-1ВорончихинИван\tcpService\tcpService\obj\Debug\tcpService.pdb
